@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="petstore-automation" target="1.5" />
+      <module name="petstore-automation" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
